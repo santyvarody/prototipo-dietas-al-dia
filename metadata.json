@@ -1,0 +1,6 @@
+{
+  "name": "Dietas al Día - Asignación de Tratamiento Nutricional",
+  "description": "Prototipo de alta fidelidad para el sistema de apoyo a la decisión clínica Dietas al Día. Validación del requisito EPC 28 para el Departamento de Nutrición.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
